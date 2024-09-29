@@ -4,19 +4,12 @@ This is the backend for a Property Search Application built with Node.js and Exp
 
 ## Table of Contents
 
-- [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Database](#database)
 - [License](#license)
-
-## Features
-
-- User authentication using cookies
-- CRUD operations for tasks
-- Protected routes to ensure only authenticated users can access certain endpoints
 
 ## Technologies
 
@@ -75,8 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Notes:
-- Replace `your-username` in the clone command with your actual GitHub username.
-- Adjust the MongoDB connection string and other environment variables in the installation section as per your setup.
-- You may want to add any specific commands or details relevant to your project in the README.
-```
