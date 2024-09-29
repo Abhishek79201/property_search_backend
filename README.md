@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your Node.js backend using Express for the Property Search Application. You can customize it further as needed:
-
-````markdown
 # Property Search Application - Backend
 
 This is the backend for a Property Search Application built with Node.js and Express. The application provides search operations for property estates.
@@ -35,7 +32,7 @@ This is the backend for a Property Search Application built with Node.js and Exp
    git clone https://github.com/Abhishek79201/property_search_backend.git
    cd property_search_backend
    ```
-````
+
 
 2. Install the dependencies:
 
