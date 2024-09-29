@@ -1,0 +1,25 @@
+{
+  "name": "infynno-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-http-context": "^1.2.4",
+    "http-status-codes": "^2.3.0",
+    "joi": "^17.12.3",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1",
+    "winston": "^3.13.0"
+  }
+}
