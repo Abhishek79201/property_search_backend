@@ -4,6 +4,7 @@ const cors = require("cors");
 const config = require("../config/config");
 const routes = require("./routes/index");
 const logger = require("./utils/logger");
+require('dotenv').config()
 
 const app = express();
 app.use(express.urlencoded({ extended: true }));
